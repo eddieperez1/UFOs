@@ -16,7 +16,7 @@ To use this website, open index.html in a browser. The default page has a title,
 #### The default page
 ![default page](/screenshots/screenshot_of_default_webpage.PNG)
 
-#### The page after filter criteria has been entered. For example, date: 1/09/2010, shape: light
+#### The page after filter criteria has been entered. For example, date: 1/9/2010, shape: light
 ![page after filter criteria](/screenshots/screenshot_of_using_filters_on_webpage.PNG)
 
 ## Summary:
